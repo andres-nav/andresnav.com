@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://www.linkedin.com/in/andresnav"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://www.github.com/andres-nav"
+    },
+    {
+      "name": "email",
+      "icon": "fab fa-at",
+      "link": "mailto:contact@andresnav.com"
+    }
+  ]
+}

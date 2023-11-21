@@ -1,0 +1,15 @@
+.btn {
+  @apply inline-block rounded border border-transparent px-5 py-2 font-semibold capitalize transition;
+}
+
+.btn-sm {
+  @apply rounded-sm px-4 py-1.5 text-sm;
+}
+
+.btn-primary {
+  @apply hover:border-yellow hover:text-yellow bg-yellow hover:bg-transparent text-black;
+}
+
+.btn-outline-primary {
+  @apply border-yellow text-yellow hover:bg-yellow bg-transparent hover:text-black;
+}

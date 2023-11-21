@@ -1,0 +1,5 @@
+################ English language ##################
+[en]
+languageName = "en"
+languageCode = "en"
+weight = 10

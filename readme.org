@@ -1,0 +1,25 @@
+yellow #f5dd90
+black #3B322C
+white #EEEEEE
+gray #3A4750
+
+black 222831
+gray 393E46
+
+alex
+black bg #131628
+gray #303242
+light gray #f6f6f7
+white #eeeeee
+text black #000000
+text white #ffffff
+stars #f9a000
+
+https://www.taniarascia.com/ basing a lot
+https://kentcdodds.com/
+https://victoreke.com/
+
+https://github.com/Evavic44/portfolio-ideas
+
+https://lukaszadam.com/illustrations
+https://unsplash.com/

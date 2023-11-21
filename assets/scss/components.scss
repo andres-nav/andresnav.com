@@ -1,0 +1,74 @@
+main {
+  min-height: 70vh;
+}
+
+// section style
+.section {
+  @apply py-24 xl:py-28;
+  &-sm {
+    @apply py-16 xl:py-20;
+  }
+}
+
+// container
+.container {
+  @apply mx-auto px-4 2xl:max-w-[1320px];
+}
+
+// form style
+.form-input {
+  @apply bg-white text-black placeholder:text-black focus:border-yellow focus:border-4 w-full rounded border-transparent px-6 py-4 focus:ring-transparent;
+}
+
+.form-label {
+  @apply font-secondary text-white mb-4 block text-xl font-normal;
+}
+
+// social icons
+.social-icons {
+  @apply space-x-4;
+  li {
+    @apply inline-block;
+    a {
+      @apply bg-yellow flex h-9 w-9 items-center justify-center rounded text-center leading-9 text-black;
+      svg {
+        @apply h-5 w-5;
+      }
+    }
+  }
+}
+
+// swiper pagination
+.swiper-pagination-bullet {
+  @apply bg-white h-2.5 w-2.5 opacity-100;
+
+  &-active {
+    @apply bg-yellow h-4 w-4;
+  }
+}
+
+// content style
+.content {
+  @apply prose max-w-none;
+  @apply prose-headings:mb-[.3em] prose-headings:mt-[.6em] prose-headings:text-yellow;
+  @apply prose-h1:text-h1-sm md:prose-h1:text-h1;
+  @apply prose-h2:text-h2-sm md:prose-h2:text-h2;
+  @apply prose-h3:text-h3-sm md:prose-h3:text-h3;
+  @apply prose-img:max-w-full prose-img:rounded;
+  @apply prose-hr:border-white;
+  @apply prose-p:text-base prose-p:text-white;
+  @apply prose-blockquote:rounded-lg prose-blockquote:border prose-blockquote:border-l-[10px] prose-blockquote:border-yellow prose-blockquote:bg-black prose-blockquote:px-8 prose-blockquote:py-10 prose-blockquote:font-secondary prose-blockquote:text-2xl prose-blockquote:not-italic prose-blockquote:text-white;
+  @apply prose-pre:rounded-lg prose-pre:bg-yellow;
+  @apply prose-code:px-1;
+  @apply prose-strong:text-yellow;
+  @apply prose-a:text-white prose-a:underline hover:prose-a:text-yellow;
+  @apply prose-li:text-white;
+  @apply prose-table:relative prose-table:border-yellow prose-table:overflow-hidden prose-table:rounded-lg prose-table:before:absolute prose-table:before:left-0 prose-table:before:top-0 prose-table:before:h-full prose-table:before:w-full prose-table:before:rounded-[inherit] prose-table:before:border prose-table:before:border-yellow prose-table:before:content-[""];
+  @apply prose-thead:border-yellow prose-thead:bg-yellow;
+  @apply prose-th:relative prose-th:z-10 prose-th:px-4 prose-th:py-[18px] prose-th:text-black;
+  @apply prose-tr:border-yellow;
+  @apply prose-td:relative prose-td:z-10 prose-td:px-3 prose-td:py-[18px] text-white;
+  .btn {
+    @apply no-underline hover:text-white #{!important};
+  }
+}

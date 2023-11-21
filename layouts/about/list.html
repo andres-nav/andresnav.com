@@ -1,0 +1,53 @@
+{{ define "main" }}
+  <!-- Banner -->
+    <section class="section pb-4 pt-14">
+      <div class="container">
+        <div class="justify-center lg:flex">
+          <div class="lg:col-8 mb-8">
+            <h1 class="mb-4 text-center">
+              {{ .Title | markdownify }}
+            </h1>
+            <div class="content mb-8">
+              {{ .Content | markdownify }}
+            </div>
+          </div>
+          <div class="lg:col-4 text-center lg:items-center lg:my-auto">
+            <div class="m-4">
+  {{ with .Params.banner }}
+              {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[400px] rounded-xl" ) }}
+            </div>
+            <div>
+              <div class="m-4">
+                {{ with .cv }}
+                  {{ if .enable }}
+                    <a
+                      class="btn btn-outline-primary"
+
+	    target="_blank" rel="noopener"
+                      href="{{ .link | absURL }}">
+                      <i class="fa fa-sheet-plastic pr-2"></i>
+                      {{ .label }}
+                    </a>
+                  {{ end }}
+                {{ end }}
+
+              </div>
+              <div class="m-4">
+                {{ partial "components/social" . }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+  <!-- /Banner -->
+
+  <!-- Experience -->
+  {{ partial "components/accordion" .Params.experience }}
+  <!-- /Experience -->
+
+  <!-- Education -->
+  {{ partial "components/accordion" .Params.education }}
+  <!-- /Education -->
+{{ end }}
