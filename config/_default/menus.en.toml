@@ -26,6 +26,24 @@
   weight = 30
 
 [[main]]
+  name = "LinkedIn"
+  url = "https://linkedin.com/in/andresnav"
+  weight = 40
+  [main.params]
+    icon = "linkedin"
+    showName = false
+    target = "_blank"
+
+[[main]]
+  name = "GitHub"
+  url = "https://github.com/andres-nav"
+  weight = 50
+  [main.params]
+    icon = "github"
+    showName = false
+    target = "_blank"
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
