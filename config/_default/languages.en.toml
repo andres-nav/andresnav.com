@@ -9,13 +9,13 @@ title = "Andres Navarro Pedregal"
 [params]
   dateFormat = "2 January 2006"
 
-  # mainSections = ["section1", "section2"]
+  mainSections = ["posts", "projects"]
   description = "Personal website of Andres Navarro Pedregal." # TODO: change description for better
 
 [params.author]
   name = "Andres Navarro Pedregal"
-  # image = "img/andres_navarro.png"
-  headline = "I'm only human"
+  image = "img/profile.png"
+  headline = "🚀 Aspiring Solutions Architect & Data Enthusiast"
   bio = "A little bit about you"
   links = [
     { linkedin = "https://linkedin.com/in/andresnav" },
