@@ -1,0 +1,33 @@
+#+title:Andres Navarro Pedregal
+#+description: Personal website of Andres Navarro Pedregal, futures solutions architect and data enthusiast.
+
+{{< alert "lightbulb" >}}
+Actively looking for a *solutions architect position*, ideally in a company where (i) I can learn about *system architecture* and *sales*, (ii) it is *B2B consulting* and (iii) located in *US*, *CH*, *DE*, *ES*, or *remotely*.
+
+#+begin_export html
+{{< button href="https://linkedin.com/in/andresnav" target="_blank" >}}
+Contact me via LinkedIn!
+{{< /button >}}
+#+end_export
+{{< /alert >}}
+
+A tech enthusiast with a passion for *problem-solving* and *innovation*.
+
+*Hands-on experience* in cloud architecture, DevOps, ML, AI, and data engineering.
+
+{{< lead >}}
+Interested in cloud, sales, business, open source, growth.
+{{< /lead >}}
+
+{{< alert "amazon" >}}
+#+begin_export html
+{{< badge >}}
+New certification!
+{{< /badge >}}
+Recently got my AWS Solutions Architect Professional Certification!
+#+end_export
+{{< /alert >}}
+
+{{< button href="/about/" target="_self" >}}
+Learn more
+{{< /button >}}

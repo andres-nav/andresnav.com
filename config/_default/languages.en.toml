@@ -10,18 +10,18 @@ title = "Andres Navarro Pedregal"
   dateFormat = "2 January 2006"
 
   mainSections = ["posts", "projects"]
-  description = "Personal website of Andres Navarro Pedregal." # TODO: change description for better
+  description = "Personal website of Andres Navarro Pedregal. Know more about me and what I do!"
 
 [params.author]
   name = "Andres Navarro Pedregal"
   image = "img/profile.png"
-  headline = "🚀 Aspiring Solutions Architect & Data Enthusiast"
-  bio = "A little bit about you"
+  headline = "Cloud Maestro ☁️ Transforming Complexity into Simplicity"
+  bio = "Aspiring solutions architect with a strong passion about technology."
   links = [
     { linkedin = "https://linkedin.com/in/andresnav" },
     { github = "https://github.com/andres-nav" },
+    { link = "https://github.com/andres-nav/andres-nav/tree/main" },
     { email = "mailto:contact@andresnav.com" },
-  #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },

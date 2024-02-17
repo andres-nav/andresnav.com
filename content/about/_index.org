@@ -1,0 +1,42 @@
+#+title: About Me
+#+layout: simple
+
+Currently, I am working as a *cloud researcher* at UC3M (Madrid) within the Department of Telematics. I develop and implement cloud solutions on distributed system for research purposes.
+
+In parallel, I am finishing my *dual bachelor degree* in data science and engineering and telecommunication engineering. Earned more than 10 Honors and counting.
+
+I am also part of university association focused on the *design of autonomous drones*. We leverage machine learning tools and the cloud to perform target detection tasks.
+
+{{< button href="https://linkedin.com/in/andresnav" target="_blank" >}}
+See more in my LinkedIn!
+{{< /button >}}
+
+* Skills
+- *Problem Solving*: always looking to solve new problems in new innovative ways.
+- *System Design*: passionate about designing scalable and robust architectures.
+- *System Development*: spend a good part of my time in Python and Linux.
+- *Leadership*: have a strong sense of ownership and collaboration.
+- *Growth Mindset*: love facing new challenges and learning.
+- *Business*: devoted to learn what makes great businesses thrive.
+
+* Fun Facts
+Started programming since I was 12 years old.
+
+Pursued a couple of business ventures. Software freelancing and microsoldering service.
+
+Advocate of open source! Currently using NixOS and Emacs.
+
+Interested in blockchain and made some smart contracts.
+
+Punctual and devoted to self improvement.
+
+* Languages
+- Spanish (native)
+- English (professional)
+- German (basic)
+
+* Contact
+- {{< icon "github" >}} [[https://github.com/andres-nav][GitHub]]
+- {{< icon "linkedin" >}} [[https://linkedin.com/in/andresnav][LinkedIn]]
+- {{< icon "link" >}} [[https://github.com/andres-nav/andres-nav/blob/main/cv/en/CV.pdf][Resume (CV)]]
+
