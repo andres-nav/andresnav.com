@@ -3,7 +3,7 @@
 
 Currently, I am working as a *cloud researcher* at UC3M (Madrid) within the Department of Telematics. I develop and implement cloud solutions on distributed system for research purposes.
 
-In parallel, I am finishing my *dual bachelor degree* in data science and engineering and telecommunication engineering. Earned more than 10 Honors and counting.
+In parallel, I am finishing my *dual bachelor degree* in data science and engineering and telecommunication engineering; with the best student record and more than 10 Honors.
 
 I am also part of university association focused on the *design of autonomous drones*. We leverage machine learning tools and the cloud to perform target detection tasks.
 
@@ -32,11 +32,10 @@ Punctual and devoted to self improvement.
 
 * Languages
 - Spanish (native)
-- English (professional)
+- English (professional as native)
 - German (basic)
 
 * Contact
 - {{< icon "github" >}} [[https://github.com/andres-nav][GitHub]]
 - {{< icon "linkedin" >}} [[https://linkedin.com/in/andresnav][LinkedIn]]
 - {{< icon "link" >}} [[https://github.com/andres-nav/andres-nav/blob/main/cv/en/CV.pdf][Resume (CV)]]
-
