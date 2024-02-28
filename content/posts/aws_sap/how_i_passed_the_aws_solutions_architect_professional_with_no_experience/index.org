@@ -1,0 +1,119 @@
+#+title: How I passed the AWS Solutions Architect Professional with no experience
+#+date: <2024-02-28 Wed>
+#+EXCLUDE_TAGS: noexport
+
+* TL;DR
+{{< alert "triangle-exclamation" >}}
+This exam has been one of the most challenging I've undertaken, demanding extensive practice and knowledge.
+{{< /alert >}}
+
+Preparing for it took me three months, during which I completed more than 15 practice exams and engaged in hands-on practice.
+
+It has equipped me with the skills to *design* and *architect robust*, *secure*, and *scalable infrastructure*.
+
+At the end of the post, you can find my notes, compiled from various sources, along with some *helpful tips*.
+
+{{< figure
+    src="aws_sap_exam_results.png"
+    alt="Exam Results of the AWS Solutions Architect Professional Certificate of Andres Navarro Pedregal"
+    caption="Results of my exam. [[https://www.credly.com/badges/a3613956-e64c-46c8-b492-cf95cbd8a525/public_url][Check out the certificate!]]"
+    >}}
+
+* Why did I take the AWS SAP-C02?
+A few months ago, I attended a conference on "A life as a Solutions Architect in AWS" hosted by [[https://www.linkedin.com/in/duarte-moura/][Duarte Moura]] and [[https://www.linkedin.com/in/jorge-hern%C3%A1ndez-su%C3%A1rez-9a38011b8/][Jorge Hernández]].
+
+During the event, they shared insights into their roles, which resonated with me.
+
+I've always enjoyed creating solutions and tackling challenges with technology. And also I like the part of business and direct contact with the client.
+
+Therefore, I decided to push myself by obtaining the [[https://aws.amazon.com/certification/certified-solutions-architect-professional/][AWS Certified Solutions Architect Professional]] and gaining practical experience.
+
+* My Starting Point, for Context
+While I *had minimal experience with AWS*, having only deployed some EC2 instances for side projects, my background in computers was extensive.
+
+Since the age of 12, I've been immersed in computer science, developing and designing numerous software projects.
+
+Additionally, my dual bachelor's degree provided me with a strong understanding of networking, security, system design, and computers.
+
+Furthermore, I am always trying to learn new technologies such as Linux, containers, or open-source tools.
+
+This isn't to brag but to emphasize the difficulty of this exam. Approach it with caution and dedication.
+
+* How did I Prepare for the exam?
+{{< alert "circle-info" >}}
+For three months, I dedicated four hours daily to studying. I did more than 1000 exam questions across more than 15 practice exams.
+{{< /alert >}}
+
+My primary *focus* was *on comprehending AWS services* and understanding their strengths and limitations for specific use cases.
+
+** Walkthrough of my preparation
+1. In the first month, I completed the Cantril Course, taking detailed notes on each service.
+2. Subsequently, I attempted my first batch of practice exams, scoring between 50% and 60%.
+3. I then dig deeper into AWS services, consulting the [[https://docs.aws.amazon.com/][AWS Docs]], [[https://tutorialsdojo.com/aws-cheat-sheets/][Tutorials Dojo Cheat Sheets]], and [[https://aws.amazon.com/blogs/architecture/][AWS Architecture Blog]].
+4. For the following month and a half, I did one practice exam every day, reviewing each one of them and noting down my mistakes.
+5. By the last week, my scores consistently ranged between 75% and 90%.
+6. Finally, I took the [[https://explore.skillbuilder.aws/learn/course/external/view/elearning/14953/exam-prep-aws-certified-solutions-architect-professional-sap-c02-with-practice-material][AWS official mock exam]] and scored 830.
+
+Throughout this period, I was *actively engaged with AWS* in my professional and personal projects, implementing IoT solutions, and DevOps pipelines, and setting up a comprehensive AWS production account.
+
+* How was the exam?
+During the exam, I found that I was familiar with around 70% of the questions. Therefore, *doing a lot of practice exams proved to be beneficial* :)
+
+Time management wasn't an issue, as I had focused on completing the practice exams within two hours.
+
+The topics that were most discussed were:
+- Serverless everywhere, DynamoDB, API Gateway, and Fargate.
+- Aurora was the norm with less emphasis on RDS.
+- Direct Connect and Transit Gateways.
+- Hybrid cloud as the king, DX, TGW, storage gateways, DataSync, and AWS Backup.
+
+And also some weird options that I had never heard of:
+- Elastic resize for Redshift.
+- Migration Evaluator.
+- Specific questions about Elastic Beanstalk and Data Exchange.
+
+* Tips you might find useful too!
+Studying for the exam:
+- Focus on understanding concepts rather than brute memorization.
+- Do practice exams completing them within two hours.
+
+Answering questions:
+- Pay close attention to the statement question, particularly regarding cost-effectiveness or operational overhead.
+- Remember that there are usually multiple correct answers, but one aligns better with the question. Taka care!
+
+Scheduling the exam:
+- Schedule the exam in the morning to ensure you are fresh, at least for me.
+- Do the exam in a testing center, you can stretch and go to the bathroom.
+- If it is the first exam you take, do first the Cloud Practitioner. That way you get a 50% discount and save around 60 euros.
+- If English is not your mother language but you have a good level, you can ask for an extra 30 minutes. Make sure to ask for it before scheduling the exam.
+
+* Resources I used to prepare
+First of all, [[https://github.com/andres-nav/solutions-architect-notes][*here*]] are the notes I created for this certification. You can find an explanation of the services with the important key points.
+
+{{< alert "lightbulb" >}}
+In my notes, the items with "IMPORTANT:" are taken from practice exams. Search for them, they are really useful ;)
+{{< /alert >}}
+
+Practice exams I did:
+- [[https://tutorialsdojo.com/courses/aws-certified-solutions-architect-professional-practice-exams/][Tutorials Dojo]] (highly recommended): analogous to the real exam.
+- [[https://explore.skillbuilder.aws/learn/course/external/view/elearning/14953/exam-prep-aws-certified-solutions-architect-professional-sap-c02-with-practice-material][AWS Official Mock exam]]: I used it as the final exam to see if I was ready.
+- [[https://www.udemy.com/course/practice-exam-aws-certified-solutions-architect-professional/?couponCode=ST22FS22724][Stephane Maarek]] (highly recommended): hardest exams with the best explanations.
+- [[https://www.udemy.com/course/aws-certified-solutions-architect-professional-aws-practice-exams][Neal Davis]]: quite a lot of practice exams. Great explanations with good details.
+- [[https://www.whizlabs.com/aws-solutions-architect-professional/][WhizLabs]]: they are really simple, but great as a starting point and doing a lot of exams.
+- [[https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-professional/][ExamTopics questions]]: free but no explanations or certain right answers. Take them with care.
+
+Notes and courses I used:
+- [[https://learn.cantrill.io/p/aws-certified-solutions-architect-professional][Cantril Course]]: a high-level overview of the whole AWS ecosystem. It was my starting point.
+- [[https://tutorialsdojo.com/aws-cheat-sheets/][Tutorial Dojo Cheat Sheets]]: summary of every service with cool insights.
+- [[https://docs.aws.amazon.com/][AWS Docs]]: everything is here with an in-depth explanation. Worth reading some parts.
+- [[https://aws.amazon.com/blogs/architecture/][AWS Architecture Blog]]: good to read architecture designs and learn best practices.
+
+* Final thoughts & next steps
+Overall, it has been a great experience, where I gained a lot of knowledge on AWS.
+
+I have learned techniques to design highly available and scalable infrastructure, implement disaster recovery solutions, optimize costs, and enhance cloud security.
+
+Moving on, I plan to apply this knowledge by:
+- Designing IoT and DevOps solutions in my job.
+- Developing ML pipelines for my association.
+- Exploring further cloud solutions, and learning about Terraform, and CI/CD pipelines.
