@@ -4,49 +4,51 @@
 
 * TL;DR
 {{< alert "triangle-exclamation" >}}
-This exam has been one of the most challenging I've undertaken, demanding extensive practice and knowledge.
+This exam has been one of the hardest exams I have taken, but that does not mean it is impossible.
 {{< /alert >}}
 
-Preparing for it took me three months, during which I completed more than 15 practice exams and engaged in hands-on practice.
+Preparing for it took me *3 months for 4 hours every day* plus hands-on learning and projects.
 
-It has equipped me with the skills to *design* and *architect robust*, *secure*, and *scalable infrastructure*.
+It has taught me important skills such as the design and architecture of robust, secure, and scalable infrastructure.
 
-At the end of the post, you can find my notes, compiled from various sources, along with some *helpful tips*.
+You can find my *notes* with *helpful tips* at the end of this post.
 
 {{< figure
     src="aws_sap_exam_results.png"
     alt="Exam Results of the AWS Solutions Architect Professional Certificate of Andres Navarro Pedregal"
-    caption="Results of my exam. [[https://www.credly.com/badges/a3613956-e64c-46c8-b492-cf95cbd8a525/public_url][Check out the certificate!]]"
+    caption="Proof that it can be done :) [[https://www.credly.com/badges/a3613956-e64c-46c8-b492-cf95cbd8a525/public_url][Check out the certificate!]]"
     >}}
 
 * Why did I take the AWS SAP-C02?
 A few months ago, I attended a conference on "A life as a Solutions Architect in AWS" hosted by [[https://www.linkedin.com/in/duarte-moura/][Duarte Moura]] and [[https://www.linkedin.com/in/jorge-hern%C3%A1ndez-su%C3%A1rez-9a38011b8/][Jorge Hernández]].
 
-During the event, they shared insights into their roles, which resonated with me.
+During the event, I was introduced to the role of a Solutions Architect, which resonated with me.
 
-I've always enjoyed creating solutions and tackling challenges with technology. And also I like the part of business and direct contact with the client.
+The more that I found out about it, the more I liked it since I always enjoyed creating solutions and tackling challenges with technology. And also the act of business and selling.
 
-Therefore, I decided to push myself by obtaining the [[https://aws.amazon.com/certification/certified-solutions-architect-professional/][AWS Certified Solutions Architect Professional]] and gaining practical experience.
+Therefore, that was why I decided to push myself and obtain the [[https://aws.amazon.com/certification/certified-solutions-architect-professional/][AWS Certified Solutions Architect Professional]].
 
-* My Starting Point, for Context
-While I *had minimal experience with AWS*, having only deployed some EC2 instances for side projects, my background in computers was extensive.
+* My starting point, for context
+While it is true that I *had minimal experience with AWS* having only deployed some EC2 instances, my background in computers was extensive.
 
 Since the age of 12, I've been immersed in computer science, developing and designing numerous software projects.
 
-Additionally, my dual bachelor's degree provided me with a strong understanding of networking, security, system design, and computers.
+Additionally, my dual bachelor's degree has provided me with a strong understanding of networking, security, system design, and computers.
 
-Furthermore, I am always trying to learn new technologies such as Linux, containers, or open-source tools.
+Furthermore, I usually spend my free time learning new technologies such as Linux, containers, or open-source tools.
 
-This isn't to brag but to emphasize the difficulty of this exam. Approach it with caution and dedication.
+So take care and *approach this exam with caution and dedication*.
 
-* How did I Prepare for the exam?
+* How did I prepare for the exam?
 {{< alert "circle-info" >}}
 For three months, I dedicated four hours daily to studying. I did more than 1000 exam questions across more than 15 practice exams.
 {{< /alert >}}
 
 My primary *focus* was *on comprehending AWS services* and understanding their strengths and limitations for specific use cases.
 
-** Walkthrough of my preparation
+I read everything that I could about the cloud and learned new methodologies such as the [[https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html][AWS Well-Architected Framework]].
+
+These were the specific steps that I took for the exam:
 1. In the first month, I completed the Cantril Course, taking detailed notes on each service.
 2. Subsequently, I attempted my first batch of practice exams, scoring between 50% and 60%.
 3. I then dig deeper into AWS services, consulting the [[https://docs.aws.amazon.com/][AWS Docs]], [[https://tutorialsdojo.com/aws-cheat-sheets/][Tutorials Dojo Cheat Sheets]], and [[https://aws.amazon.com/blogs/architecture/][AWS Architecture Blog]].
@@ -59,7 +61,7 @@ Throughout this period, I was *actively engaged with AWS* in my professional and
 * How was the exam?
 During the exam, I found that I was familiar with around 70% of the questions. Therefore, *doing a lot of practice exams proved to be beneficial* :)
 
-Time management wasn't an issue, as I had focused on completing the practice exams within two hours.
+The time was not an issue, as I had been focusing on completing the practice exams within 2 hours.
 
 The topics that were most discussed were:
 - Serverless everywhere, DynamoDB, API Gateway, and Fargate.
@@ -74,8 +76,8 @@ And also some weird options that I had never heard of:
 
 * Tips you might find useful too!
 Studying for the exam:
-- Focus on understanding concepts rather than brute memorization.
-- Do practice exams completing them within two hours.
+- Focus on understanding concepts rather than pure memorization.
+- Do practice exams completing them within 2 hours.
 
 Answering questions:
 - Pay close attention to the statement question, particularly regarding cost-effectiveness or operational overhead.
@@ -87,11 +89,13 @@ Scheduling the exam:
 - If it is the first exam you take, do first the Cloud Practitioner. That way you get a 50% discount and save around 60 euros.
 - If English is not your mother language but you have a good level, you can ask for an extra 30 minutes. Make sure to ask for it before scheduling the exam.
 
+Finally, *learn, practice, learn, practice, learn, practice, and pass*.
+
 * Resources I used to prepare
 First of all, [[https://github.com/andres-nav/solutions-architect-notes][*here*]] are the notes I created for this certification. You can find an explanation of the services with the important key points.
 
 {{< alert "lightbulb" >}}
-In my notes, the items with "IMPORTANT:" are taken from practice exams. Search for them, they are really useful ;)
+Tips: in my notes, the items with the "IMPORTANT:" keyword are taken from practice exams. [[https://github.com/andres-nav/solutions-architect-notes][Search for them]]! ;)
 {{< /alert >}}
 
 Practice exams I did:
@@ -109,11 +113,11 @@ Notes and courses I used:
 - [[https://aws.amazon.com/blogs/architecture/][AWS Architecture Blog]]: good to read architecture designs and learn best practices.
 
 * Final thoughts & next steps
-Overall, it has been a great experience, where I gained a lot of knowledge on AWS.
+Overall, it has been a great experience, where I have gained an invaluable amount of knowledge on AWS.
 
-I have learned techniques to design highly available and scalable infrastructure, implement disaster recovery solutions, optimize costs, and enhance cloud security.
+I have learned techniques to design highly available and scalable infrastructure, implement disaster recovery solutions, optimize costs, enhance cloud security, and much more!.
 
 Moving on, I plan to apply this knowledge by:
 - Designing IoT and DevOps solutions in my job.
 - Developing ML pipelines for my association.
-- Exploring further cloud solutions, and learning about Terraform, and CI/CD pipelines.
+- Exploring more about cloud solutions, and learning about Terraform, and CI/CD pipelines.

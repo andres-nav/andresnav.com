@@ -15,16 +15,14 @@ A tech enthusiast with a passion for *problem-solving* and *innovation*.
 
 *Hands-on experience* in cloud architecture, DevOps, ML, AI, and data engineering.
 
-{{< lead >}}
 Interested in cloud, sales, business, open source, growth.
-{{< /lead >}}
 
 {{< alert "amazon" >}}
 #+begin_export html
 {{< badge >}}
 New certification!
 {{< /badge >}}
-Recently got my <a href="posts/aws_sap/how_i_passed_the_aws_solutions_architect_professional_with_no_experience">AWS Solutions Architect Professional Certification</a>!
+Recently, I passed the AWS Solutions Architect Professional Certification. <a href="posts/aws_sap/how_i_passed_the_aws_solutions_architect_professional_with_no_experience">Check out here more</a>!
 #+end_export
 {{< /alert >}}
 
