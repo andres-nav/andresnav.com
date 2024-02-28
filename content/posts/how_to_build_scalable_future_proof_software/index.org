@@ -1,11 +1,11 @@
 #+title: How to build scalable future-proof software
-#+date: <2024-02-17 Sat> 
+#+date: <2024-02-17 Sat>
 
 In recent years, *microservices* and *serverless* have been famous topics among software people. Tools like Docker, Kubernetes, or terms like the cloud of *stateless software* have been the standard for developing new software. But what is the reason behind it?
 
 * Problem
 
-Usually, traditional software development was based on monolithic applications, characterized by tightly coupled components, posing significant hurdles in terms of scalability, maintainability, and continuous deployment. On the other hand,  the fast-paced and competitive world we live in has made scalable, maintainable, and resilient software a requirement for any business that wants to keep being competitive. 
+Usually, traditional software development was based on monolithic applications, characterized by tightly coupled components, posing significant hurdles in terms of scalability, maintainability, and continuous deployment. On the other hand,  the fast-paced and competitive world we live in has made scalable, maintainable, and resilient software a requirement for any business that wants to keep being competitive.
 
 * Solution
 
@@ -44,7 +44,7 @@ However, there are 12 different aspects we must take care and they are:
 - Strictly **separate build and run stages**.
 - Releases must be **unique and immutable** once created, (again check out [Nix](https://nixos.org)).
 - Builds are initiated by developers but run-time execution can happen automatically (it must have as few moving parts as possible).
-  
+
 * 6. Processes
 - An app is executed in the execution environment as one or more processes.
 - Processes are **stateless and share and store nothing**, with no sticky sessions.
@@ -83,5 +83,5 @@ However, there are 12 different aspects we must take care and they are:
 - Favors languages that provide a REPL shell out of the box.
 
 * Resources
-- [12-factor official site](https://12factor.net/)
-- [Wikipedia 12-factor](https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology)
+- [[https://12factor.net/][12-factor official site]]
+- [[https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology][Wikipedia 12-factor]]
