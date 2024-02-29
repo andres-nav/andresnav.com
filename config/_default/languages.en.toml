@@ -15,7 +15,7 @@ title = "Andres Navarro Pedregal"
 [params.author]
   name = "Andres Navarro Pedregal"
   image = "img/profile.png"
-  headline = "🏗️ Aspiring Solutions Architect 🧩 AWS SAP Certified ☁️ Cloud Researcher 🎓 Dual Bachelor in AI and Telecommunications"
+  headline = "🏗️ Aspiring Solutions Architect 🧩 AWS SAP Certified ☁️ Cloud Researcher 🎓 Dual Bachelor in Data Science and Telecommunications"
   bio = "Feel free to connect and contact me via LinkedIn!"
   links = [
     { linkedin = "https://linkedin.com/in/andresnav" },
