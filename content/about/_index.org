@@ -1,34 +1,34 @@
 #+title: About Me
 #+layout: simple
 
-Currently, I am working as a *cloud researcher* at UC3M (Madrid) within the Department of Telematics. I develop and implement cloud solutions on distributed system for research purposes.
+I am a *cloud researcher* at UC3M (Madrid) within the Department of Telematics. I develop and implement cloud solutions on distributed systems for research purposes.
 
-In parallel, I am finishing my *dual bachelor degree* in data science and engineering and telecommunication engineering; with the best student record and more than 10 Honors.
+In parallel, I am finishing my dual bachelor's degree in *data science and engineering and telecommunication engineering*; with 11 Honor mentions in different subjects. Currently, in my penultimate year.
 
-I am also part of university association focused on the *design of autonomous drones*. We leverage machine learning tools and the cloud to perform target detection tasks.
+I am also part of a university association focused on the design of autonomous drones. We leverage *machine learning tools* and the *cloud* to perform *target detection tasks*.
 
 {{< button href="https://linkedin.com/in/andresnav" target="_blank" >}}
-See more in my LinkedIn!
+See more on my LinkedIn!
 {{< /button >}}
 
 * Skills
 - *Problem Solving*: always looking to solve new problems in new innovative ways.
 - *System Design*: passionate about designing scalable and robust architectures.
-- *System Development*: spend a good part of my time in Python and Linux.
-- *Leadership*: have a strong sense of ownership and collaboration.
-- *Growth Mindset*: love facing new challenges and learning.
-- *Business*: devoted to learn what makes great businesses thrive.
+- *System Development*: I usually spend my free time programming and learning new tech. Terraform now!
+- *Leadership*: I enjoy working and collaborating with other people.
+- *Growth Mindset*: I love facing new challenges and learning how things work.
+- *Business*: interested in the art of business and selling.
 
 * Fun Facts
-Started programming since I was 12 years old.
+Started programming when I was 12 years old.
 
-Pursued a couple of business ventures. Software freelancing and microsoldering service.
+Pursued a couple of business ventures. Software freelancing and micro-soldering service.
 
 Advocate of open source! Currently using NixOS and Emacs.
 
 Interested in blockchain and made some smart contracts.
 
-Punctual and devoted to self improvement.
+Punctual and devoted to self-improvement.
 
 * Languages
 - Spanish (native)
@@ -36,6 +36,6 @@ Punctual and devoted to self improvement.
 - German (basic)
 
 * Contact
-- {{< icon "github" >}} [[https://github.com/andres-nav][GitHub]]
-- {{< icon "linkedin" >}} [[https://linkedin.com/in/andresnav][LinkedIn]]
-- {{< icon "link" >}} [[https://github.com/andres-nav/andres-nav/blob/main/cv/en/CV.pdf][Resume (CV)]]
+- {{< icon "github" >}} → [[https://github.com/andres-nav][GitHub]]
+- {{< icon "linkedin" >}} → [[https://linkedin.com/in/andresnav][LinkedIn]]
+- {{< icon "link" >}} → [[https://github.com/andres-nav/andres-nav/blob/main/cv/en/CV.pdf][Resume (CV)]]

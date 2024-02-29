@@ -2,7 +2,7 @@
 #+description: Personal website of Andres Navarro Pedregal, futures solutions architect and data enthusiast.
 
 {{< alert "lightbulb" >}}
-Actively looking for a *solutions architect position*, ideally in a company where (i) I can learn about *system architecture* and *sales*, (ii) it is *B2B consulting* and (iii) located in *US*, *Europe*, or *remote*.
+Actively looking for a *solutions architect position*, ideally in a company where (i) I can learn about *system architecture* and *sales*, (ii) it is *B2B consulting* and (iii) located in the *US*, *Europe*, or *remote*.
 
 #+begin_export html
 {{< button href="https://linkedin.com/in/andresnav" target="_blank" >}}
@@ -22,7 +22,7 @@ Interested in cloud, sales, business, open source, growth.
 {{< badge >}}
 New certification!
 {{< /badge >}}
-Recently, I passed the AWS Solutions Architect Professional Certification. <a href="posts/aws_sap/how_i_passed_the_aws_solutions_architect_professional_with_no_experience">Check out here more</a>!
+Recently, I passed the AWS Solutions Architect Professional Certification. <a href="posts/aws/how_i_passed_the_aws_solutions_architect_professional_with_no_experience">Check out more</a>!
 #+end_export
 {{< /alert >}}
 
