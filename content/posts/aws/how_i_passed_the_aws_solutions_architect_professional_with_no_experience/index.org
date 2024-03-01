@@ -104,7 +104,6 @@ Practice exams I did:
 - [[https://www.udemy.com/course/practice-exam-aws-certified-solutions-architect-professional/?couponCode=ST22FS22724][Stephane Maarek]] (highly recommended): they are the hardest exams with the best explanations.
 - [[https://www.udemy.com/course/aws-certified-solutions-architect-professional-aws-practice-exams][Neal Davis]]: quite a lot of practice exams. Great explanations with good details.
 - [[https://www.whizlabs.com/aws-solutions-architect-professional/][WhizLabs]]: they are simple, but great as a starting point and doing a lot of exams.
-- [[https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-professional/][ExamTopics questions]]: free exams without explanations. Take them with care.
 
 Notes and courses I used:
 - [[https://learn.cantrill.io/p/aws-certified-solutions-architect-professional][Cantril Course]]: a high-level overview of the whole AWS ecosystem. It was my starting point.
