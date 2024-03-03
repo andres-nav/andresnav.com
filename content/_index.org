@@ -15,7 +15,7 @@ A tech enthusiast with a passion for *problem-solving* and *innovation*.
 
 *Hands-on experience* in cloud architecture, DevOps, ML, AI, and data engineering.
 
-Interested in cloud, sales, business, open source, growth.
+Interested in cloud, tech, business, open-source, and growth.
 
 {{< alert "amazon" >}}
 #+begin_export html
