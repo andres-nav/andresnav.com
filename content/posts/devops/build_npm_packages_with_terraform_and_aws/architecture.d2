@@ -1,0 +1,113 @@
+vars: {
+  d2-config: {
+    layout-engine: elk
+    # Terminal theme code
+    theme-id: 301
+
+  }
+
+}
+
+title: A winning strategy {
+
+  shape: text
+
+  near: top-center
+
+  style: {
+
+    font-size: 55
+
+    italic: false
+
+  }
+
+}
+
+github: GitHub {
+    icon: https://icons.terrastruct.com/dev%2Fgithub.svg
+    shape:image
+    style: {
+        text-transform: none
+    }
+}
+
+aws: {
+    codestar: CodeStar Connection {
+        icon: https://icons.terrastruct.com/aws%2FDeveloper%20Tools%2FAWS-CodeStar.svg
+        shape:image
+        style: {
+            text-transform: none
+        }
+    }
+    codepipeline: CodePipeline {
+        icon: https://icons.terrastruct.com/aws%2FDeveloper%20Tools%2FAWS-CodePipeline.svg
+        shape:image
+        style: {
+            text-transform: none
+        }
+    }
+    codebuild: CodeBuild {
+        icon: https://icons.terrastruct.com/aws%2FDeveloper%20Tools%2FAWS-CodeBuild.svg
+        shape:image
+        style: {
+            text-transform: none
+        }
+    }
+    codeartifact: CodeArtifact {
+        icon: https://icon.icepanel.io/AWS/svg/Developer-Tools/CodeArtifact.svg
+        shape:image
+        style: {
+            text-transform: none
+        }
+    }
+
+    direction:right
+    codestar -> codepipeline -> codebuild -> codeartifact
+}
+
+github -> aws
+
+network: {
+  cell tower: {
+    satellites: {
+      shape: stored_data
+      style.multiple: true
+    }
+
+    transmitter
+
+    satellites -> transmitter: send
+    satellites -> transmitter: send
+    satellites -> transmitter: send
+  }
+
+  online portal: {
+    ui: {shape: hexagon}
+  }
+
+  data processor: {
+    storage: {
+      shape: cylinder
+      style.multiple: true
+    }
+  }
+
+  cell tower.transmitter -> data processor.storage: phone logs
+}
+
+user: {
+  shape: person
+  width: 130
+}
+
+user -> network.cell tower: make call
+user -> network.online portal.ui: access {
+  style.stroke-dash: 3
+}
+
+api server -> network.online portal.ui: display
+api server -> logs: persist
+logs: {shape: page; style.multiple: true}
+
+network.data processor -> api server

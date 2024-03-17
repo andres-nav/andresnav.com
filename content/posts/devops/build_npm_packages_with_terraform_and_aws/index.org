@@ -1,0 +1,29 @@
+#+title: Build NPM packages with Terraform and AWS
+#+date: <2024-03-13 Wed>
+#+EXCLUDE_TAGS: noexport
+
+* TL;DR
+If you are trying to set up a simple architecture in AWS with Terraform to build NPM package.
+
+You can find the whole source code in the following link.
+
+* Architecture
+The main idea is that we will have a place where we store the source code and push changes to it. When changes are done we have a process that takes the source code, builds, tests, and then uploads the final files to a place where we can later access the binaries.
+
+For the architecture, the solution will be composed of the following parts:
+- Source code: where the code will be stored. For this implementation we will use GitHub.
+- S3 bucket: to store the intermediate artifacts created from the CI steps and also the logs for each build.
+- CodeStar Connection: it is a dedicated AWS service that allows to easily connect to git repositories.
+- CodePipeline: to orchestrate the whole build process from obtaining the source, building and publishing.
+- CodeBuild: where the computing occurs. The one in charge of building, testing, and publishing the package.
+- CodeArtifact: where the final build of the packages will be stored for later use. We will leverage CodeArtifact to distribute the packages.
+- IAM: to allow our services to have permissions
+
+Note that other services such as KMS, for encrypting the artifact, or CloudWatch, for monitoring the service, can be used. But I have to tried to keep it as simple as possible.
+
+* Step by step
+First of all I have decided to perform the whole infrastructure in Terraform as it is an open source tool to describe the infrastructure as code. That way any changes can be tracked and services can be easily updated and deleted.
+
+
+
+* Final thoughts
