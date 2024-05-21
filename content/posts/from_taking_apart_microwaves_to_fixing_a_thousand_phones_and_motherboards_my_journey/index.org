@@ -66,7 +66,7 @@ While maintaining a modest workload, my focus shifted toward the Cloud and DevOp
 {{< badge >}}
 Check out my post!
 {{< /badge >}}
-<a href="/posts/aws/how_i_passed_the_aws_solutions_architect_professional_with_no_experience/">How I passed the AWS Solutions Architect Professional with no experience.</a>!
+<a href="/posts/how_i_passed_the_aws_solutions_architect_professional_with_no_experience/">How I passed the AWS Solutions Architect Professional with no experience.</a>!
 #+end_export
 {{< /alert >}}
 
