@@ -1,0 +1,118 @@
+#+title: Tips to Ace University: How I Earned 8 Honor Mentions in 1 Year of a Dual Bachelor's Engineering Degree
+#+date: <2024-06-25 Tue>
+#+description: Discover effective strategies to excel in university and earn top honors. Learn from my experience of achieving 8 Honor Mentions in a dual degree in Data Science and Telecommunication Engineering.
+
+* Introduction
+Have you ever failed at something and felt like giving up? I have.
+
+The title might lead you to believe that I have always been an academic achiever, but that might not be the case.
+
+In the first year of university, I struggled and I failed 2 subjects (in the ordinary call) with an average grade of 7/10.
+
+However, the next year, I managed to turn things around and earned 2 Honor Mentions and an average grade of 8.5/10.
+
+The following year, I earned 8 Honor Mentions and an average grade of 9/10.
+
+This transformation was not due to innate intelligence or luck but rather a result of implementing effective strategies and habits that I will share in this article.
+
+Note: if you do not trust me, you can check my academic records [[https://github.com/andres-nav/andres-nav/blob/main/academic/academic_transcripts.pdf?raw=true][here]].
+
+* General overview
+Currently, I am pursuing a dual degree in Data Science and Telecommunication Engineering at the University Carlos III of Madrid, Spain.
+
+This dual degree is a 5-year program that combines the technical skills of an engineer with the analytical skills of a data scientist.
+
+It is a challenging program that requires a lot of dedication and hard work, but it is also rewarding.
+
+In this article, I will share the strategies and habits that I have implemented to excel in university and earn top honors so that you can apply them to your own academic journey or life.
+
+* Tips to Ace University
+** 1. Focus Time is better than a Lot of Time
+One of the biggest mistakes that I used to make was to study for long hours, thinking that the more time I spent studying, the better I would perform.
+
+However, I realized that it is not about the quantity of time you spend studying but rather the quality of time.
+
+Instead of studying for long hours, I focused on studying for short periods of time with high intensity and concentration.
+
+I also applied this technique to other areas of my life, such as work and personal projects, and I noticed a significant improvement in my productivity and performance.
+
+** 2. Understand, Connect, and Implement
+Another mistake that I used to make was to memorize information without understanding it.
+
+I realized that understanding the concepts and connecting them to real-life examples or applications is crucial to retaining the information and applying it in different contexts.
+
+This is why I always try to understand the concepts, connect them to real-life examples or applications, and implement them in different contexts.
+
+This approach has helped me not only to perform better in exams but also to develop a deeper understanding of the subjects and their practical applications.
+
+** 3. Participation and Engagement
+Participation and engagement are key to learning and retaining information.
+
+I used to be a passive learner, attending classes without actively participating or engaging with the material.
+
+However, I realized that active participation and engagement are crucial to learning and retaining information.
+
+Try to always be present in class, ask questions, participate in discussions, and engage with the material.
+
+And specially, do the labs and exercises, they are the best way to learn and understand the concepts.
+
+** 4. Consistency and Discipline
+If you are not able to do something for long periods of time without any external motivation, it will be really hard to achieve anything significant.
+
+Consistency and discipline are key to achieving your goals and excelling in university.
+
+For this, I found best to have a routine and stick to it.
+
+For me, it is waking up early and working on my most important tasks first thing in the morning.
+
+** 5. Own Your Mistakes
+One of the biggest lessons that I have learned is that it is okay to make mistakes.
+
+Mistakes are part of the learning process, and they are an opportunity to grow and improve.
+
+However, it is important to own your mistakes, learn from them, and take responsibility for them.
+
+Instead of blaming others or making excuses, take ownership of your mistakes, learn from them, and use them as an opportunity to grow and improve.
+
+Mistakes are the hints of the places where you need to improve.
+
+** 6. Learn and Be Curious
+One of the best ways to excel in university and in life is to be curious and to never stop learning.
+
+Always be curious, ask questions, seek answers, and never stop learning.
+
+Try to find hobbies and interests around your field of study, this will help you to learn more and to be more motivated.
+
+For example, in my case, I am really interested in designing and architecting software systems. So, I have learned about software architecture and design patterns, and I have applied them to my personal projects.
+
+** 7. Results-Oriented Study
+One of the biggest mistakes that I used to make was to study without a clear goal or objective.
+
+It is best to take 5 minutes before starting anything and clarify what you want to achieve.
+
+For example, before starting to study for an exam, clarify what you want to achieve, what topics you want to cover, and how you will measure your progress.
+
+You are as good as the data that you measure.
+
+** 8. Surround Yourself with High Achievers
+Have you ever heard the saying, "You are the average of the five people you spend the most time with?"
+
+This is true.
+
+If you surround yourself with high achievers, you will be motivated to excel and to achieve your goals.
+
+On the other hand, if you surround yourself with negative or unmotivated people, you will be demotivated and less likely to achieve your goals and be contempt with your current situation.
+
+Surround yourself with high achievers, learn from them, and be motivated to excel and achieve your goals.
+
+
+* Conclusion
+In conclusion, excelling in university and earning top honors is not about innate intelligence or luck but rather about implementing effective strategies and habits.
+
+By focusing on quality time, understanding, connecting, and implementing concepts, participating and engaging actively, being consistent and disciplined, owning your mistakes, being curious and never stop learning, being results-oriented, and surrounding yourself with high achievers, you can excel in university and achieve your goals.
+
+I hope that you find these tips helpful and that you can apply them to your own academic journey or life.
+
+If you have any questions or need further advice, feel free to reach out to me.
+
+Good luck and keep striving for excellence!
