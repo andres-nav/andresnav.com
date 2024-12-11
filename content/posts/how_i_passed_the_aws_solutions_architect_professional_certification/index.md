@@ -1,6 +1,6 @@
 +++
 title = "How I passed the AWS Solutions Architect Professional Certification"
-date = 2024-02-28T00:00:00+01:00
+date = 2024-02-28
 +++
 
 First of all, this exam has been one of the hardest I have taken, but that does not mean it is impossible.

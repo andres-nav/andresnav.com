@@ -1,6 +1,6 @@
 +++
 title = "Building a Scalable Parking Management System with AWS and ZeroTier"
-date = 2024-10-06T00:00:00+02:00
+date = 2024-10-06
 +++
 
 This post is part of my final thesis project for my Dual Bachelor's Degree in Data Science and Telecommunications Engineering at the University Carlos III of Madrid. The project focuses on designing and implementing a scalable distributed parking management system using cloud technologies and IoT devices. The architecture described here is a core component of the overall system design.

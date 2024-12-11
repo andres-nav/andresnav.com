@@ -1,6 +1,6 @@
 +++
 title = "How to deploy an inventory management system with Terraform and Docker in AWS"
-date = 2024-05-20T00:00:00+02:00
+date = 2024-05-20
 +++
 
 In this post, I will show how to set up [Snipe-IT](https://snipeitapp.com/), an open-source asset management, to create your self-hosted inventory. And the best part is that you do not have to manage it!

@@ -1,7 +1,7 @@
 +++
 title = "Tips to Ace University: How I Earned 8 Honor Mentions in 1 Year of a Dual Bachelor's Engineering Degree"
 description = "Discover effective strategies to excel in university and earn top honors. Learn from my experience of achieving 8 Honor Mentions in a dual degree in Data Science and Telecommunication Engineering."
-date = 2024-06-25T00:00:00+02:00
+date = 2024-06-25
 +++
 
 Have you ever failed at something and felt like giving up? I have.

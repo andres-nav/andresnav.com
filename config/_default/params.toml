@@ -7,14 +7,14 @@
 
 colorScheme = "sun"
 defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = true
 
 replyByEmail = false
 
-mainSections = ["docs"]
+mainSections = ["posts"]
 # robots = ""
 
 disableImageOptimization = false
@@ -32,14 +32,14 @@ smartTOCHideUnfocusedChildren = false
   showMenu = true
   showCopyright = true
   showThemeAttribution = false
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 6
+  showRecentItems = 5
   showMoreLink = true
   showMoreLinkDest = "posts"
   cardView = true

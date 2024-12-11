@@ -1,6 +1,6 @@
 +++
 title = "From taking apart microwaves to fixing a thousand phones"
-date = 2024-03-19T00:00:00+01:00
+date = 2024-03-19
 +++
 
 Remember those moments as a kid when you couldn't resist taking apart your toys to see what was inside?

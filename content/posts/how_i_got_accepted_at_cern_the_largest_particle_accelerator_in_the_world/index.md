@@ -1,6 +1,6 @@
 +++
 title = "I got accepted at CERN, the largest particle accelerator in the world, and this is how"
-date = 2024-06-11T00:00:00+02:00
+date = 2024-06-11
 +++
 
 Welcome! If you are interested in electronics, computer science, or physics (especially particle physics), you're in for a treat.

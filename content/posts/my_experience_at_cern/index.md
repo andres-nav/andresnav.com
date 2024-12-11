@@ -1,7 +1,7 @@
 +++
 title = "My experience at CERN, from tiny particles to enormous experiments"
 description = "I spent a few months as a Summer Student at CERN gaining valuable experience in particle physics, software engineering, and data analysis."
-date = 2024-09-08T00:00:00+02:00
+date = 2024-09-08
 +++
 
 I have been fortunate to spend the last few months working as a Summer Student at [CERN](https://home.cern/), the European Organization for Nuclear Research, where I did everything from learning about particle physics, working with excellent scientists and colleagues, or traveling around Switzerland.

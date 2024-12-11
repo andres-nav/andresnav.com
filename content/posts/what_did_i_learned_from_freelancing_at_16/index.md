@@ -1,6 +1,6 @@
 +++
 title = "What did I learn from freelancing at 16"
-date = 2024-07-05T00:00:00+02:00
+date = 2024-07-05
 +++
 
 Imagine this: a curious 16-year-old passionate about business and entrepreneurship with a basic understanding of programming. That was me.
