@@ -131,11 +131,11 @@ smartTOCHideUnfocusedChildren = false
   # domain = "llama.yoursite.com"
 
 [umamiAnalytics]
-  # websiteid = "ABC12345"
+  websiteid = "0f0d4fda-be00-42d3-b8f2-e1600572b25b"
   # domain = "llama.yoursite.com"
-  # dataDomains = "yoursite.com,yoursite2.com"
+  # dataDomains = "andresnav.com"
   # scriptName = ""
-  # enableTrackEvent = false
+  enableTrackEvent = true
 
 [selineAnalytics]
   # token = "XXXXXX"
