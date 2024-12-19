@@ -10,8 +10,6 @@ My goal is to build and architect **scalable, reliable, and efficient systems** 
 
 To learn more about me, visit my [LinkedIn profile](https://www.linkedin.com/in/andresnav) or check out my [CV](/cv).
 
-![Profile picutre about section](cern_profile.jpg)
-
 ## Experience
 
 Note, I started quite early (at 16 years old) so don't be scared :)

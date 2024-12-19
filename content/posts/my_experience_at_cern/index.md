@@ -8,7 +8,7 @@ I have been fortunate to spend the last few months working as a Summer Student a
 
 Honestly, it has been an incredible experience. Here, I will share my experience at CERN and the key insights I have gained.
 
-![CERN Globe of Science and Innovation](cern_globe_professional.jpg "CERN Globe of Science and Innovation")
+![CERN Entrance](cern_globe_professional.jpg "CERN Entrance")
 
 ## Introduction
 
