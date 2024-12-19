@@ -76,7 +76,29 @@ And finally, this entrepreneurial attempt has shown me that:
 -   Selling is a skill worth mastering. You either sell yourself or get sold.
 -   Always ask for feedback to keep improving the service. There is always room for improvement.
 
-![iPhone X CPU swap](cpu_swap.jpg "iPhone X CPU swap")
+{{< gallery >}}
+  <img src="gallery/cpu_swap.jpg" class="grid-w33" />
+  <img src="gallery/iphone_x_disassembly.jpeg" class="grid-w33" />
+  <img src="gallery/a_lot_of_phones.jpeg" class="grid-w33" />
+  <img src="gallery/keychain_cpu.jpeg" class="grid-w33" />
+  <img src="gallery/baseband_reball.jpeg" class="grid-w33" />
+  <img src="gallery/middle_plate_reballing.jpeg" class="grid-w33" />
+  <img src="gallery/cpu_reballing.jpeg" class="grid-w33" />
+  <img src="gallery/laptop_screen.jpeg" class="grid-w33" />
+  <img src="gallery/iphone_7_audio.jpeg" class="grid-w33" />
+  <img src="gallery/wifi.jpeg" class="grid-w33" />
+  <img src="gallery/gasoline_phone.jpeg" class="grid-w33" />
+  <img src="gallery/mid_layer_iphone_x.jpeg" class="grid-w33" />
+  <img src="gallery/bottom_layer_swap.jpeg" class="grid-w33" />
+  <img src="gallery/apple_watch_flex.jpeg" class="grid-w33" />
+  <img src="gallery/iphone_xs_cpu_swap.jpeg" class="grid-w33" />
+  <img src="gallery/iphone_7_swap.jpeg" class="grid-w33" />
+  <img src="gallery/fpv_waterproof.jpeg" class="grid-w33" />
+  <img src="gallery/lab.jpeg" class="grid-w33" />
+  <img src="gallery/samsung_s9.jpeg" class="grid-w33" />
+  <img src="gallery/mac.jpeg" class="grid-w33" />
+  <img src="gallery/dji.jpeg" class="grid-w33" />
+{{< /gallery >}}
 
 
 ## Closing Thoughts {#closing-thoughts}
